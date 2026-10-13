@@ -1,8 +1,3 @@
-/*
- * Potencia de un número: base^exp
- *  - Secuencial:  O(n)      -> multiplica la base n veces
- *  - Logarítmico: O(log n)  -> divide y conquista (exponenciación rápida)
- */
 #include <stdio.h>
 
 /* Secuencial: base * base * base ... (exp veces) */
